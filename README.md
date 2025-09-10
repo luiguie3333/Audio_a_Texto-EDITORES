@@ -15,3 +15,7 @@ Antes de correr el proyecto, necesitas tener instalado **Whisper**.
 ```bash
 pip install openai-whisper
 pip install flask
+PARA correrlo en terminar es 
+python nombre_del_archivo.py
+en este caso python whisper_flask_server3.py
+
